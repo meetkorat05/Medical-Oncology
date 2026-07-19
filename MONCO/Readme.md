@@ -272,11 +272,9 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## 👤 Project Owner
 
-**Manabendu Karfa**
+**Meet Korat**
 
-- Email: [technoriku@gmail.com](mailto:technoriku@gmail.com)
-- GitHub: [github.com/Manabendu-ai](https://github.com/Manabendu-ai)
-- LinkedIn: [linkedin.com/in/manabendu-karfa](https://linkedin.com/in/manabendu-karfa-890ba52a3/)
+- Email: [technoriku@gmail.com](mailto:meetkorat2105@gmail.com)
 
 ---
 
