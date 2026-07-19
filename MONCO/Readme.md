@@ -247,8 +247,7 @@ curl -X POST "http://localhost:8000/predict" \
 1. The uploaded image is resized to 128×128 and converted to a NumPy array.
 2. The array is passed through the trained VGG16-based model.
 3. The class with the highest softmax probability is selected as the prediction, alongside the full probability distribution across all four classes.
-4. `prompt_builder.py` constructs a prompt from the prediction and confidence, which `llm/service.py` sends to a locally running **Ollama** instance (**gemma3:4b**). The model returns a Markdown-formatted natural language explanation covering what the prediction means, how confident the model is, and a disclaimer to consult a medical professional.
-5. If the predicted class is `notumor`, the result is shown as **"No Tumor Detected"**; otherwise it's shown as **"Tumor: <class name>"**, along with the confidence percentage, probability chart, and AI explanation.
+4. If the predicted class is `notumor`, the result is shown as **"No Tumor Detected"**; otherwise it's shown as **"Tumor: <class name>"**, along with the confidence percentage, probability chart, and AI explanation.
 
 ---
 
@@ -260,12 +259,6 @@ curl -X POST "http://localhost:8000/predict" \
 - Add authentication and request logging to the API
 - Add prediction history and downloadable PDF reports
 - Expand the dataset with more diverse MRI sources to improve generalization
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute with attribution.
 
 ---
 
