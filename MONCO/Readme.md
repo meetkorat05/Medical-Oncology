@@ -1,6 +1,6 @@
 # 🧠 MONCO — Brain Tumor Detection using Deep Learning
 
-MONCO is an end-to-end deep learning application that classifies brain MRI scans into four categories — **glioma**, **meningioma**, **pituitary tumor**, or **no tumor** — using transfer learning on **VGG16**, and now generates a **natural language AI explanation** of each result. The project covers the full pipeline: data preprocessing, model training and evaluation, a **FastAPI** inference backend, and a modular **Streamlit** web interface for real-time predictions.
+MONCO ( Medical ONCOlogy ) is an end-to-end deep learning application that classifies brain MRI scans into four categories — **glioma**, **meningioma**, **pituitary tumor**, or **no tumor** — using transfer learning on **VGG16**, and now generates a **natural language AI explanation** of each result. The project covers the full pipeline: data preprocessing, model training and evaluation, a **FastAPI** inference backend, and a modular **Streamlit** web interface for real-time predictions.
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white">
