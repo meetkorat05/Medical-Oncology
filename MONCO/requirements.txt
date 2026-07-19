@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+tensorflow
+numpy
+pillow
+python-multipart
+pydantic
+h5py
+ollama
+streamlit
+plotly
