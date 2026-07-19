@@ -274,7 +274,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 **Meet Korat**
 
-- Email: [technoriku@gmail.com](mailto:meetkorat2105@gmail.com)
+- Email: [meetkorat2105@gmail.com](mailto:meetkorat2105@gmail.com)
 
 ---
 
