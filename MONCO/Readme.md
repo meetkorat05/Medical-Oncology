@@ -157,7 +157,6 @@ MONCO/
 
 - **Deep Learning:** TensorFlow, Keras, VGG16
 - **Backend:** FastAPI
-- **Explanation Generation:** [Ollama](https://ollama.com) running **gemma3:4b** locally for natural language prediction explanations
 - **Frontend:** Streamlit, Plotly
 - **Data & Evaluation:** NumPy, scikit-learn, Seaborn, Matplotlib
 - **Image Processing:** Pillow (PIL)
